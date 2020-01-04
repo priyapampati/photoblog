@@ -1,0 +1,29 @@
+img {
+	width: 28%;
+	float: left;
+	margin: 2.66%;
+	transition: all ease 0.5s;
+	-webkit-transform: all ease 0.5s;
+	transition: scale(1);
+	-webkit-transform: scale(1);
+
+}
+
+.image img:hover{
+	transform: scale(1.2);
+}
+
+p{
+	font-family: Raleway;
+	margin-left: 2.66%;
+	font-size: 23px;
+	font-weight: 800;
+	padding-bottom: 15px;
+	text-transform: uppercase;
+	margin-bottom: 0px;
+	border-bottom: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #f1f1f1;
+	width: 30%;
+}
+
